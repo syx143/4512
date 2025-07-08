@@ -24,4 +24,4 @@
 加入我们的讨论社区，查看真实用户对每部作品的评价与评分。你也可以分享你喜欢的片单、写影评，参与话题互动。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/syx143/4512 ）</span>
